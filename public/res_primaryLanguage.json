@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "👋 Hello Everyone!",
-      "description": "My name is Ryan Bagan and I am a Software Developer. I am a US NAVY Veteran and my previous experiences besides my military background includes Naval Force Protection Security with knowledge of armed response, anti-terrorism, combat arms, and I was also a radio jockey. I decided to become a Software Developer as I believe the future is here. I also wanted to make a difference and have a very meaningful career. Learning skills in JavaScript, HTML, CSS brought out my personality and enabled me to express myself on websites that I have created. It also made me feel that I stood out from the crowd, helped me understand and explore other programming languages, and contribute to projects better. I believe that my previous experience with teamwork, leadership, mentorship, large scale operations management, my commitment to deadlines, attention to detail, and work ethic is of great value and advantage that I can bring to my next company and my next job. Thank you very much and looking forward to being a part of your team.💜",
+      "description": "My name is Ryan Bagan and I am a Software Developer. I am a US NAVY Veteran and my previous experiences besides my military background includes Naval Force Protection Security with knowledge of armed response, anti-terrorism, combat arms, and I was also a radio jockey. I decided to become a Software Developer as I believe the future is here. I also wanted to make a difference and have a very meaningful career. Learning skills in JavaScript, HTML, CSS brought out my personality and enabled me to express myself on websites that I have created. It also made me feel that I stood out from the crowd, helped me understand and explore other programming languages, and contribute to projects better. I believe that my previous experience with teamwork, leadership, mentorship, large scale operations management, my commitment to deadlines, attention to detail, and work ethic is of great value and advantage that I can bring to my next company and my next job. Thank you very much and looking forward to being a part of your team.👍",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,14 +11,15 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "SpaceMonkeys",
+        "startDate": "February 2023",
+        "description": "My first official team project at Code Fellows. It was a great opportunity to learn and work with aspiring software developers. I mostly contributed to the design of the app which you will see in the main page, about page, and credits page. It was grueling at most days of preparing and developing but it was worth the late nights.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/spacemonkeys/SpaceMonkeys.png",
+          "images/portfolio/spacemonkeys/About.png",
+          "images/portfolio/spacemonkeys/Game.png"
         ],
-        "url": "",
+        "url": "https://ryanb021.github.io/space-monkey/",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
@@ -35,14 +36,15 @@
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Tic Tac Toe",
+        "startDate": "February 2023",
+        "description": "Personal project that I created while I was on a 1 week break after my Code Fellows 201 course. I decided to create a small project just to keep my proficiency being a junior software developer. It was fun!",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/tic-tac-toe/TicTacToe.png",
+          "images/portfolio/tic-tac-toe/PlayerXWon.png",
+          "images/portfolio/tic-tac-toe/GameTie.png"
         ],
-        "url": "https://github.com",
+        "url": "https://ryanb021.github.io/tic-tac-toe/",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -55,14 +57,15 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Gallery of Horns",
+        "startDate": "March 2023",
+        "description": "My first lab assignment for Code Fellows 301 course. This was a very challenging lab. Just used my creativity is designing the page. Hope you guys will like it.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/gallery-of-horns/horns1.png",
+          "images/portfolio/gallery-of-horns/horns2.png",
+          "images/portfolio/gallery-of-horns/horns3.png"
         ],
-        "url": "https://github.com",
+        "url": "https://the-dark-knight-page.netlify.app/",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
