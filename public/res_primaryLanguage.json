@@ -13,7 +13,7 @@
       {
         "title": "SpaceMonkeys",
         "startDate": "February 2023",
-        "description": "My first official team project at Code Fellows. It was a great opportunity to learn and work with aspiring software developers. I mostly contributed to the design of the app which you will see in the main page, about page, and credits page. It was grueling at most days of preparing and developing but it was worth the late nights.",
+        "description": "My first official team project at Code Fellows. It was a great opportunity to learn and work with aspiring software developers. I mostly contributed to the design of the app using CSS which you will see in the main page, about page, and credits page. It was grueling at most days of preparing and developing but it was worth the late nights.",
         "images": [
           "images/portfolio/spacemonkeys/SpaceMonkeys.png",
           "images/portfolio/spacemonkeys/About.png",
@@ -22,16 +22,29 @@
         "url": "https://ryanb021.github.io/space-monkey/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "name": "HTML 5",
+            "class": "devicon-html5-plain",
+            "level": "95"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "name": "CSS 3",
+            "class": "devicon-css3-plain",
+            "level": "95"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "name": "JavaScript",
+            "class": "devicon-javascript-plain",
+            "level": "70"
+          },
+          {
+            "name": "Git",
+            "class": "devicon-git-plain",
+            "level": "65"
+          },
+          {
+            "name": "Github",
+            "class": "devicon-github-plain",
+            "level": "65"
           }
         ]
       },
@@ -47,12 +60,29 @@
         "url": "https://ryanb021.github.io/tic-tac-toe/",
         "technologies": [
           {
-            "class": "devicon-react-original",
-            "name": "React"
+            "name": "HTML 5",
+            "class": "devicon-html5-plain",
+            "level": "95"
           },
           {
+            "name": "CSS 3",
+            "class": "devicon-css3-plain",
+            "level": "95"
+          },
+          {
+            "name": "JavaScript",
             "class": "devicon-javascript-plain",
-            "name": "JavaScript"
+            "level": "70"
+          },
+          {
+            "name": "Git",
+            "class": "devicon-git-plain",
+            "level": "65"
+          },
+          {
+            "name": "Github",
+            "class": "devicon-github-plain",
+            "level": "65"
           }
         ]
       },
@@ -65,19 +95,71 @@
           "images/portfolio/calculator/Calculator 2.png",
           "images/portfolio/calculator/Calculator 3.png"
         ],
-        "url": "https://the-dark-knight-page.netlify.app/",
+        "url": "https://ryanb021.github.io/calculator/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "name": "HTML 5",
+            "class": "devicon-html5-plain",
+            "level": "95"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "name": "CSS 3",
+            "class": "devicon-css3-plain",
+            "level": "95"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "name": "JavaScript",
+            "class": "devicon-javascript-plain",
+            "level": "70"
+          },
+          {
+            "name": "Git",
+            "class": "devicon-git-plain",
+            "level": "65"
+          },
+          {
+            "name": "Github",
+            "class": "devicon-github-plain",
+            "level": "65"
+          }
+        ]
+      },
+      {
+        "title": "Portfolio Prep",
+        "startDate": "February 2023",
+        "description": "I created my own portfolio as a prep assignment requirement for Code Fellows 301 course. I'm a big Batman fan as you can see from the theme of my portfolio. I worked hard on this for days and nights. I can say I am proud of this. Bruce Wayne will be proud of me. 🦇😆",
+        "images": [
+          "images/portfolio/prep/Portfolio1.png",
+          "images/portfolio/prep/Portfolio2.png",
+          "images/portfolio/prep/Portfolio3.png",
+          "images/portfolio/prep/Portfolio4.png"
+        ],
+        "url": "https://ryanb021.github.io/portfolio-prep/",
+        "technologies": [
+          {
+            "name": "HTML 5",
+            "class": "devicon-html5-plain",
+            "level": "95"
+          },
+          {
+            "name": "CSS 3",
+            "class": "devicon-css3-plain",
+            "level": "95"
+          },
+          {
+            "name": "JavaScript",
+            "class": "devicon-javascript-plain",
+            "level": "70"
+          },
+          {
+            "name": "Git",
+            "class": "devicon-git-plain",
+            "level": "65"
+          },
+          {
+            "name": "Github",
+            "class": "devicon-github-plain",
+            "level": "65"
           }
         ]
       },
@@ -93,54 +175,90 @@
         "url": "https://the-dark-knight-page.netlify.app/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "name": "React",
+            "class": "devicon-react-plain",
+            "level": "65"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+          "name": "Bootstrap",
+          "class": "devicon-bootstrap-plain",
+          "level": "85"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "name": "Git",
+            "class": "devicon-git-plain",
+            "level": "65"
+          },
+          {
+            "name": "Github",
+            "class": "devicon-github-plain",
+            "level": "65"
           }
+
         ]
       }
 
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Code Fellows",
+        "title": "Software Developer",
+        "years": "12.2022 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          ""
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
           "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "HTML5",
+          "CSS3",
+          "VS Code",
+          "React JS",
+          "Git",
+          "Ubuntu Linux",
+          "Github",
+          "Netlify",
+          "Trello",
+          "MongoDB"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "American Eagle Protective Services",
+        "title": "NAVAL Force Protection Security Officer",
+        "years": "06.2022 - 12.2022",
         "mainTech": [
-          "Angular 7/8"
+          ""
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "MS Word",
+          "MS Powerpoint",
+          "Adobe PDF"
+        ]
+      },
+      {
+        "company": "United States Navy",
+        "title": "Culinary Specialist",
+        "years": "06.2006 - 06.2022",
+        "mainTech": [
+          ""
+        ],
+        "technologies": [
+          "MS Word",
+          "MS Powerpoint",
+          "MS Excel",
+          "Adobe PDF",
+          "SKED 3.2"
+        ]
+      },
+      {
+        "company": "GV Radio Broadcasting Corp.",
+        "title": "Radio Jockey",
+        "years": "03.2005 - 08.2005",
+        "mainTech": [
+          ""
+        ],
+        "technologies": [
+          "MS Word",
+          "Audio Console"
         ]
       }
     ]
