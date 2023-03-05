@@ -57,9 +57,34 @@
         ]
       },
       {
+        "title": "Calculator",
+        "startDate": "February 2023",
+        "description": "A small project that I created by watching a youtube tutorial. Just wanted to learn more and improve my proficiency. It was a very complicated project for me even though it looks like a simple app.",
+        "images": [
+          "images/portfolio/calculator/Calculator.png",
+          "images/portfolio/calculator/Calculator 2.png",
+          "images/portfolio/calculator/Calculator 3.png"
+        ],
+        "url": "https://the-dark-knight-page.netlify.app/",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      },
+      {
         "title": "Gallery of Horns",
         "startDate": "March 2023",
-        "description": "My first lab assignment for Code Fellows 301 course. This was a very challenging lab. Just used my creativity is designing the page. Hope you guys will like it.",
+        "description": "My first lab assignment for Code Fellows 301 course. This was a very challenging lab. Just used my creativity in designing the page. Hope you guys will like it.",
         "images": [
           "images/portfolio/gallery-of-horns/horns1.png",
           "images/portfolio/gallery-of-horns/horns2.png",
@@ -81,6 +106,7 @@
           }
         ]
       }
+
     ],
     "experience": [
       {
